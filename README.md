@@ -1,1 +1,1 @@
-This repository contains an Arduino sketch to use the Teensy micrcontroller with a RoboClaw motor controller in packet serial mode. The Application Note associated with this repository can be [found here](https://resources.basicmicro.com).
+This repository contains an Arduino sketch to use the Teensy micrcontroller with a RoboClaw motor controller in packet serial mode. The Application Note associated with this repository can be [found here](https://resources.basicmicro.com/teensy-packet-serial-control-of-roboclaw/).
